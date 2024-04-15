@@ -17,7 +17,5 @@ var windowWidth = $(window).width(); // Get initial window width
             $(this).parent().toggleClass('services-item-row');
         }
     });
-
-
 		
     }); 
